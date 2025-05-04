@@ -21,8 +21,7 @@ p2 {
   justify-content: center;
   align-items: center;
 }
-p2.dashed {
+.dashed {
   border-style: dashed;
-  align-content: center;
   border-color: darkblue;
 }
