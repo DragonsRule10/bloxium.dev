@@ -15,3 +15,7 @@ p {
 center {
   align-items: start;
 }
+p2.dashed {
+  border-style: dashed;
+  border-color: darkblue;
+}
