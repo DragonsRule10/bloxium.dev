@@ -22,6 +22,6 @@ center {
 }
 p2.dashed {
   border-style: dashed;
-  text-align: center;
+  align-content: center;
   border-color: darkblue;
 }
