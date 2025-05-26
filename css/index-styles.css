@@ -12,6 +12,11 @@ p {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
+ul {
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
 a:link {
   background-color: rgb(0, 166, 255);
 }
